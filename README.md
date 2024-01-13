@@ -1,4 +1,3 @@
-<!-- Save this as a .md file and replace placeholders with actual content -->
 
 # High-Level Test Cases
 
@@ -26,7 +25,7 @@
    - In Studio Mode, check if a whole 3D view is available for all products except eyewear.
    - Verify that users can see detailed views of each product.
 
-# Bug Report Templates
+# Bug Report 
 
 ## Bug 1: Unable to Access Camera
 
